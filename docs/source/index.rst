@@ -5,6 +5,7 @@ Welcome to the Automation and Digitisation Team
    :maxdepth: 2
    :caption: Contents:
 
+   plant_overview
    setup_browser
    helpful_links
    software_access
@@ -15,10 +16,11 @@ Welcome to the Automation and Digitisation Team
 
 Introduction
 ------------
-Welcome to the Automation and Digitisation team at [Company Name]! This guide is designed to help you navigate through the initial stages of your onboarding process. Here, you will find all the necessary information to get you set up and running in your new role.
+Welcome to the Automation and Digitisation team at Stryker! This guide is designed to help you navigate through the initial stages of your onboarding process. Here, you will find all the necessary information to get you set up and running in your new role.
 
 Sections Overview
 -----------------
+- **Plant Overview**: A brief overview of our factory. 
 - **Setting Up Your Web Browser**: Instructions on how to set up and customize your web browser for optimal use.
 - **Helpful Links**: A collection of essential links for compliance training, software requests, and HR inquiries.
 - **Software and Access Requests**: Guidelines on how to request necessary software and access permissions.
