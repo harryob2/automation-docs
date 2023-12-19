@@ -10,7 +10,7 @@ Plant Layout and Key Locations
 - **Meeting Rooms**: Locations and descriptions of the meeting rooms in the plant.
 - **Office Areas**: Information about the office layout, including the location of the Automation and Digitisation team office.
 
-.. image:: ./images/plant_layout.png
+.. image:: ./images/plant-layout.png
    :alt: alternative text
    :align: center
 
