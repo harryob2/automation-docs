@@ -22,6 +22,7 @@ Welcome to the Automation and Digitisation team at Stryker! This guide is design
 Sections Overview
 -----------------
 - **Plant Overview**: A brief overview of our factory. 
+- **Day One**: First steps for getting set up. 
 - **Setting Up Your Web Browser**: Instructions on how to set up and customize your web browser for optimal use.
 - **Helpful Links**: A collection of essential links for compliance training, software requests, and HR inquiries.
 - **Software and Access Requests**: Guidelines on how to request necessary software and access permissions.
