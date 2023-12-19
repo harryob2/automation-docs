@@ -1,10 +1,6 @@
 Plant Overview
 ==============
 
-Introduction
-------------
-Welcome to our facility! This section provides an overview of the plant, highlighting key areas and important features you should know as part of the Automation and Digitisation team.
-
 Plant Layout and Key Locations
 -------------------------------
 Below you can see our plant and its layout. About 80% of the floor space is the factory, with the offices wrapping around the bottom and up to the left. 
@@ -17,6 +13,5 @@ There are 4 main areas of the office.
 - **AO Area** Short for Advanced Operations, this is a bit seperated from the rest of the offices, and it is where 28 of our colleagues sit. Its also where our biggest meeting room, the Homer Stryker room is, and where you'll do your safety inductions. 
 
 .. image:: ./images/plant-layout.png
-   :alt: alternative text
    :align: center
 
