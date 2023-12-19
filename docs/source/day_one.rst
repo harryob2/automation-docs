@@ -31,26 +31,22 @@ You may hear from IT asking for further information, just tell them you need it 
 #. Search 'Wintel Server Access Request' and open the request page. 
 #. Fill out the page as follows:
 
-    =================================  =================================
-    Is this request for yourself?      Yes
-    Preferred mode of contact:         Teams
-    Type of access required            RDP
-    Access required for                User
-    Services account shouldn't be used false
-    for day to day operations.         
-    Select Server Name                 dubautwin701
-    Retention Period                   No
-    Name of User                       [Your name]
-    What type of Device will be        Stryker device
-    accessing this server?             
-    What Type of connectivity will be  VPN
-    used to Access this Server?        
-    Justification                      Required access to offer 
-                                    remote support to Stryker 
-                                    Limerick.
-    =================================  =================================
++---------------------------------------------------------------+--------------------------------------------------------------+
+| Is this request for yourself?                                 | Yes                                                          |
++===============================================================+==============================================================+
+| Preferred mode of contact:                                    | Teams                                                        |
+| Type of access required                                       | RDP                                                          |
+| Access required for                                           | User                                                         |
+| Services account shouldn't be used for day to day operations. | false                                                        |
+| Select Server Name                                            | dubautwin701                                                 |
+| Retention Period                                              | No                                                           |
+| Name of User                                                  | [Your name]                                                  |
+| What type of Device will be accessing this server?            | Stryker device                                               |
+| What type of connectivity will be used to access this server? | VPN                                                          |
+| Justification                                                 | Required access to offer remote support to Stryker Limerick. |
++---------------------------------------------------------------+--------------------------------------------------------------+
 
-
+ 
    .. image:: ./images/wintel-server-access-request.png
       :align: center
 
