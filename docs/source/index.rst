@@ -6,6 +6,7 @@ Welcome to the Automation and Digitisation Team
    :caption: Contents:
 
    plant_overview
+   day_one
    setup_browser
    helpful_links
    software_access
